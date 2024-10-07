@@ -17,7 +17,7 @@ Through this project, you can quickly find accounts by selecting a text file pat
 
 ## Installation
 
-* `Copy And Pase It`
+* Copy And Pase It
 
 
 * `pkg update && pkg upgrade`
