@@ -30,7 +30,6 @@ Through this project, you can quickly find accounts by selecting a text file pat
 
 
 
-
-* `One Line Commands`
+* One Line Commands
 
 * `pkg update && pkg upgrade && pkg install git && pip install requests && git clone https://github.com/Versionx10/CDMS-AUTO-LOGIN.git && cd CDMS-AUTO-LOGIN && python main.py`
