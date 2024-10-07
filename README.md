@@ -1,8 +1,12 @@
+# CDMS-AUTO-LOGIN
 
+<div style="text-align: center;">
+    <img src="screenshot.png" alt="Project Logo" width="200"/>
+</div>
 
-## CDMS-AUTO-LOGIN
+## Overview
 
-This project focuses on delivering a modern and engaging user interface and user experience (UI/UX) design for [Project Name or Description]. The goal is to create an intuitive and visually appealing application that enhances user engagement and satisfaction.
+**UI/UX Design Project** is focused on delivering a modern and engaging user interface and user experience for **[CDMS-AUTO-LOGIN]**. The goal is to create an intuitive and visually appealing application that enhances user engagement and satisfaction.
 
 ## Table of Contents
 
@@ -50,4 +54,3 @@ To get a local copy up and running, follow these simple steps:
 
    ```bash
    git clone https://github.com/YourUsername/YourRepoName.git
-   
